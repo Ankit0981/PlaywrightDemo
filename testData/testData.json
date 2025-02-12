@@ -1,0 +1,14 @@
+{
+    "validuserName": "student",
+    "validPassword": "Password123",
+    "invalidUserName": "student123",
+    "invalidPassword": "Password",
+    "successMessage": "Logged In Successfully",
+    "ErrorMessageForUsername": "Your username is invalid!",
+    "ErrorMessageForPassword": "Your password is invalid!",
+    "successURL": "https://practicetestautomation.com/logged-in-successfully/",
+    "LoginURL": "https://practicetestautomation.com/practice-test-login/",
+    "title":"Logged In Successfully | Practice Test Automation",
+    "LogOutBackColor": "rgb(49, 49, 49)"
+
+}
